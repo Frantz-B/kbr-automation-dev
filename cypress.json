@@ -1,0 +1,23 @@
+{
+    "baseUrl": "https://kbr-builder.dev.kargo.com/",
+    "env": {
+        "session_token_url": "https://login-dev.kargo.com/api/v1/authn",
+        "username": "okta-qa+aspire1@kargo.com",
+        "password": "6voKwqpCLC.fMt*iWsv!cwBxq.h",
+        "client_id": "0oa2aoe0kf9isQQ4z1d7",
+        "code_challenge": "L2r-55ax-Lk1Mx5pTcFL19nY5TFurmNHtEnd8ZUDCHY",
+        "state": "gOJ1fIMNLySJEAGCsk22b3bYCAeoBhOvaM4eSO7OPkqy4J3wEPqlP8BBs9TrGlxs",
+        "nonce": "V2Fo2waLfq9g89exa68JW1EGuUfEczLLwa3hMofn6FYZUeBj86krVEDYahJGBM4Z",
+        "redirect_uri": "https://kbr-builder.dev.kargo.com/login/callback",
+        "code_url": "https://login-dev.kargo.com/oauth2/default/v1/authorize?",
+        "code_verifier": "b627c1074eaa0b8974d86dddf09e37d5b8af6de17bf",
+        "access_token_url": "https://login-dev.kargo.com/oauth2/v1/token",
+        "km": "https://marketplace.dev.kargo.com/api/v1",
+        "kmAuthToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJxYS1hdXRvbWF0aW9uLmthcmdvLmNvbSIsImlzcyI6InFhLWF1dG9tYXRpb24ua2FyZ28uY29tIiwiZXhwIjo1MDEwMDA0ODAwLCJ0eXBlIjoiYWNjZXNzX3Rva2VuIiwiYXBwTmFtZSI6InFhLWF1dG9tYXRpb24iLCJjaWQiOiIwZDlhNTBjODgwMGQ4MzQ4MGEyYWVmY2UyNDZlNTEzZDlhZWQ3MmFlZTQ2ZGVjIiwiYXVkIjoia2FyZ28iLCJqdGkiOiJlMjI4MmQwOC1iYjcwLTRlZmQtYWY5NC1hY2E3MGQyMDQ2MjEiLCJpc3N1ZWQiOjE1NTQwNjgwODYsImlhdCI6MTU1NDA2ODA4NiwibmJ0IjoxNTU0MDY4MDg2fQ.sjEN6Nmyt6KYO-p2jgJhaEScS4hVB9U4rac4tvC68sClUaT52PZcJgONgyQBzLWR2Lvxtkv5CfbijIuXyO1m86l1kDWlScKilq68xgqjcKqVmaoYrRIEQjavzF90d62RWNo9QJRc7kDx3FBhNc07SFUsbzVUxaW47OJYt96H4Gmh-8ito8MWhovbXW7yfND0_tOA8P0tLvCaoCJEzXc7aEtLNZVvhFP0ioPhtEhdH8tvP4Z5PREBV2u0YSiV8HwpvSXWyFbJEqs3eVYXswwuhk8dM3Hbdhlgb0zzg-I-5q52bAfgAdqaiChhjq9WvN7tKqddH8_2hLssOfvFyO2snQ",
+        "kbrAuthToken": "eyJraWQiOiJJTmRvYkM5a24ybU5oQ0F5Mzc1Tm11ZFVhOXNicWpuVUZIVi1rdVMtUDl3IiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULjEtRnlsaGtoSERVZjVpMmJKZ29tM280MkdWOTdpSWxPT1RrWHV2Z3pXYW8iLCJpc3MiOiJodHRwczovL2xvZ2luLWRldi5rYXJnby5jb20vb2F1dGgyL2RlZmF1bHQiLCJhdWQiOiJhcGk6Ly9kZWZhdWx0IiwiaWF0IjoxNjcxNzExNTkzLCJleHAiOjE2NzE3MTUxOTMsImNpZCI6IjBvYTJhb2Uwa2Y5aXNRUTR6MWQ3IiwidWlkIjoiMDB1M2VkeTh4OURmdFd2bnkxZDciLCJzY3AiOlsib3BlbmlkIl0sImF1dGhfdGltZSI6MTY3MTYyNTY3Mywic3ViIjoib2t0YS1xYSthc3BpcmUxQGthcmdvLmNvbSJ9.XaFMFOOKiyDfyTTQyNJPnpbxzBfmcmMOESVnOvOAkHDBzhTzyWgaIGe1kDWzbt-km6XcSTCDwsf830JD7G7iT_4RcPTR37zUxzWtdB_ic6OJEuziNaOYRrJS8QkyiGbuUHGJANgzpiz-C7AEM03PcQ4TRS71yKwcs1oZVzH3l52f56QMeG9VrrAjsIF-upnBw_GB0Wu5VVbYEK3Xr6H85JuzuOevUdO8KYaa01B02WCjuRF4GXCAYhOsy1P_0-WM44G_oUxUFwTAcvqtMslqrv7fmtcCxv0No7Bg4bcDekexGRzpgUZcIXp4M8wcLU8gEyM2Rs-TwbbiWrz5Vk6JRA"
+    },
+    "video": false,
+    "viewportWidth": 1450,
+    "viewportHeight": 800,
+    "requestTimeout": 8000
+}

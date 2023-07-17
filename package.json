@@ -1,0 +1,29 @@
+{
+  "name": "kbr-automation-dev",
+  "version": "1.0.0",
+  "description": "Automated tests for KBR Builder project",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cy:verify": "cypress verify",
+    "cy:version": "cypress version",
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "cypress-localstorage-commands": "^1.7.0",
+    "cypress-wait-until": "^1.7.2",
+    "dayjs": "1.11.6",
+    "eslint-plugin-cypress": "^2.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frantz-B/kbr-automation-dev.git"
+  }
+}
